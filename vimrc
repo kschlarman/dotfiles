@@ -17,6 +17,7 @@ Plugin 'mileszs/ack.vim'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'jiangmiao/auto-pairs'
 
 " Snipmate
 Plugin 'MarcWeber/vim-addon-mw-utils'
