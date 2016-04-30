@@ -18,6 +18,7 @@ Plugin 'vim-ruby/vim-ruby'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'jiangmiao/auto-pairs'
+Plugin 'tpope/vim-surround'
 
 " Snipmate
 Plugin 'MarcWeber/vim-addon-mw-utils'
